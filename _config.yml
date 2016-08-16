@@ -1,0 +1,14 @@
+layout_spectrum: 0.47101105633191764
+typography_spectrum: 0.3400063975714147
+color:
+  brandStrength: 0.2635604911483824
+  lightness: 0.8965230318717659
+  saturation: 0.236011944944039
+  rhythmicContrast: 0.46530364849604666
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: OneMonkey
